@@ -1,0 +1,195 @@
+body {
+  margin-top: 0;
+  background-color: white ;
+  ;
+}
+
+.home {
+  position: absolute;
+  height: 30px;
+  width: 100px;
+  top: 22px;
+  color: white;
+  background-color: black;
+  padding: 0;
+    font-family: 'Source Code Pro', monospace;
+}
+.coustom:hover{
+  background-color: grey;
+}
+.sub {
+  height: 30px;
+  width: 100px;
+  top: 22px;
+  right: 125px;
+  color: white;
+  background-color: black;
+  padding: 0;
+  position: absolute;
+    font-family: 'Source Code Pro', monospace;
+}
+.request-song{
+position: absolute;
+
+  font-family: 'Source Code Pro', monospace;
+  top: 90px;
+  right : 70px;
+  color: white;
+  background-color: black;
+}
+.log-in {
+  height: 30px;
+  width: 100px;
+  top: 22px;
+  left: 110px;
+  color: white;
+  background-color: black;
+  padding: 0;
+  position: absolute;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.news {
+  height: 30px;
+  width: 100px;
+  top: 22px;
+  right: 20px;
+  color: white;
+  background-color: black;
+  padding: 0;
+  position: absolute;
+  font-family: 'Source Code Pro', monospace;
+}
+
+h1 {
+  font-size: 500%;
+  margin-top: 10px;
+  display: inline-block;
+  width: 300px;
+}
+
+.h1 {
+  margin: 10px 0 0 0;
+  height: 150px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-family: 'Playfair Display', serif;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: normal;
+}
+
+
+
+.search {
+  text-align: center;
+
+}
+
+.english {
+  right: 610px;
+  position: absolute;
+  font-family: 'Source Code Pro', monospace;
+  color: white;
+  background-color: black;
+}
+
+.hindi {
+  position: absolute;
+  left: 620px;
+  font-family: 'Source Code Pro', monospace;
+  color: white;
+  background-color: black;
+}
+
+.songs {
+  text-align: center;
+}
+
+.listen {
+  font-family: 'Source Code Pro', monospace;
+  color: white;
+  background-color: black;
+}
+
+.c-album {
+  font-family: 'Source Code Pro', monospace;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+}
+
+.y-album {
+  font-family: 'Source Code Pro', monospace;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  position: absolute;
+  left: 0;
+}
+
+
+.album {
+  position: absolute;
+  top: 50px;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 2%;
+  border-top-width: thick;
+  color: grey;
+  margin: 50px auto;
+}
+
+h2 {
+  font-weight: normal;
+}
+a{
+  text-decoration: none;
+  color: black;
+
+}
+.songs-p{
+border: 2px solid black;
+margin: 5px;
+position: absolute;
+}
+td{
+  font-size:20px;
+  border: 0 solid black;
+  padding: 2px;
+}
+caption{
+  font-size: 30px;
+  background-color: grey;
+  color: white;
+}
+a:hover{
+  color: grey;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.corona{
+  float: left;
+}
+iframe{
+  float: left;
+}
+.onclick{
+  color: white;
+}
+.input{
+  font-size: 30px;
+}
